@@ -1,0 +1,41 @@
+.root {
+	-fx-background-color: #1f2933;
+}
+
+.radio-button {
+	-fx-text-fill: #cbd2d9;
+}
+
+.check-box {
+	-fx-text-fill: #cbd2d9;
+}
+
+.label {
+	-fx-text-fill: #cbd2d9;
+}
+
+.table-view .column-header,
+.table-view .column-header .filler,
+.table-view .column-header-background .filler {
+	-fx-background-color: #1f2933;
+}
+
+.table-row-cell:filled:hover {
+	-fx-background-color: #1f2933;
+	-fx-text-background-color: #cbd2d9;
+}
+
+.table-row-cell:selected {
+	-fx-background-color: #1f2933;
+	-fx-text-background-color: #cbd2d9;
+}
+
+.list-cell:filled:hover {
+	-fx-background-color: #1f2933;
+	-fx-text-background-color: #cbd2d9;
+}
+
+.list-cell:selected {
+	-fx-background-color: #1f2933;
+	-fx-text-background-color: #cbd2d9;
+}
